@@ -19,8 +19,8 @@ public class InfoController : ControllerBase
         var response = new
         {
             email = _configuration["HNG12:Email"],
-            timestamp = DateTime.UtcNow.ToString("o"),
-            github = _configuration["HNG12:GitHubURL"]
+            current_datetime = DateTime.UtcNow.ToString("o"),
+            github_url = _configuration["HNG12:GitHubURL"]
 
         };
         

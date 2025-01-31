@@ -1,0 +1,6 @@
+﻿services:
+  hng-public-api:
+    image: hng-public-api
+    build:
+      context: .
+      dockerfile: HNG-Public-Api/Dockerfile

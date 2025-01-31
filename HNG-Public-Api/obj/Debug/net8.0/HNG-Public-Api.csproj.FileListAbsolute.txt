@@ -30,3 +30,4 @@
 /Users/oracle/RiderProjects/HNG-Public-Api/HNG-Public-Api/obj/Debug/net8.0/HNG-Public-Api.pdb
 /Users/oracle/RiderProjects/HNG-Public-Api/HNG-Public-Api/obj/Debug/net8.0/HNG-Public-Api.genruntimeconfig.cache
 /Users/oracle/RiderProjects/HNG-Public-Api/HNG-Public-Api/obj/Debug/net8.0/ref/HNG-Public-Api.dll
+/Users/oracle/RiderProjects/HNG-Public-Api/HNG-Public-Api/obj/Debug/net8.0/HNG-Public-Api.sourcelink.json
